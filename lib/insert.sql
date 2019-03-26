@@ -42,3 +42,4 @@ VALUES (null,null),
 (null,null);
 
 INSERT INTO pledges (amount, user_id, project_id)
+VALUES
