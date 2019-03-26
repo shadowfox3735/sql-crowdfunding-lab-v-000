@@ -19,4 +19,9 @@ VALUES (9, null, null, null, null, null);
 INSERT INTO projects (id, title, category, funding_goal, starting_date, end_date)
 VALUES (10, null, null, null, null, null);
 
-INSERT INTO users (name,age) VALUES (null,null)
+INSERT INTO users (name,age) 
+VALUES (null,null), 
+(null,null), 
+(null,null), 
+(null,null), 
+(null,null),
