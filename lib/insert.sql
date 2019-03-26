@@ -10,13 +10,13 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (5, null, null, null, null, null);
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (6, null, null, null, null, null);
-INSERT INTO projects (id, title, category, funding_goal, starting_date, end_date)
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (7, null, null, null, null, null);
-INSERT INTO projects (id, title, category, funding_goal, starting_date, end_date)
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (8, null, null, null, null, null);
-INSERT INTO projects (id, title, category, funding_goal, starting_date, end_date)
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (9, null, null, null, null, null);
-INSERT INTO projects (id, title, category, funding_goal, starting_date, end_date)
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (10, null, null, null, null, null);
 
 INSERT INTO users (name,age) 
