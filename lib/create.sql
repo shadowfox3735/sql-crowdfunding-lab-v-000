@@ -6,3 +6,12 @@ funding_goal INTEGER,
 starting_date DATE,
 end_date DATE
 );
+
+CREATE TABLE users (
+name TEXT,
+age INTEGER
+);
+
+CREATE TABLE pledges (
+amount INTEGER,
+)
